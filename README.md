@@ -21,3 +21,11 @@ groupby()	Groups data (e.g., by product or date)
 sum()	Adds up sales
 plot()	Creates bar or line charts
 to_datetime()	Converts date strings into real date objects
+
+Python – Programming language
+
+Pandas – For loading and analyzing data
+
+Matplotlib & Seaborn – For creating charts 
+
+
